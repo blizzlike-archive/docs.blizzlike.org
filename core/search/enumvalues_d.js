@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['wow_5ffail_5falready_5fonline',['WOW_FAIL_ALREADY_ONLINE',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c',1,'AuthCodes.h']]],
+  ['wow_5ffail_5fbanned',['WOW_FAIL_BANNED',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630',1,'AuthCodes.h']]],
+  ['wow_5ffail_5fdb_5fbusy',['WOW_FAIL_DB_BUSY',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96',1,'AuthCodes.h']]],
+  ['wow_5ffail_5ffail_5fnoaccess',['WOW_FAIL_FAIL_NOACCESS',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8',1,'AuthCodes.h']]],
+  ['wow_5ffail_5fincorrect_5fpassword',['WOW_FAIL_INCORRECT_PASSWORD',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3',1,'AuthCodes.h']]],
+  ['wow_5ffail_5finvalid_5fserver',['WOW_FAIL_INVALID_SERVER',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d',1,'AuthCodes.h']]],
+  ['wow_5ffail_5flocked_5fenforced',['WOW_FAIL_LOCKED_ENFORCED',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3',1,'AuthCodes.h']]],
+  ['wow_5ffail_5fno_5ftime',['WOW_FAIL_NO_TIME',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34',1,'AuthCodes.h']]],
+  ['wow_5ffail_5fparentcontrol',['WOW_FAIL_PARENTCONTROL',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d',1,'AuthCodes.h']]],
+  ['wow_5ffail_5fsuspended',['WOW_FAIL_SUSPENDED',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04',1,'AuthCodes.h']]],
+  ['wow_5ffail_5ftrial_5fended',['WOW_FAIL_TRIAL_ENDED',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6',1,'AuthCodes.h']]],
+  ['wow_5ffail_5funknown0',['WOW_FAIL_UNKNOWN0',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceaea49b5142ae24bcb186595e63dd9ef28',1,'AuthCodes.h']]],
+  ['wow_5ffail_5funknown1',['WOW_FAIL_UNKNOWN1',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea63754b0aab048411523421605db7b589',1,'AuthCodes.h']]],
+  ['wow_5ffail_5funknown_5faccount',['WOW_FAIL_UNKNOWN_ACCOUNT',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114',1,'AuthCodes.h']]],
+  ['wow_5ffail_5fuse_5fbattlenet',['WOW_FAIL_USE_BATTLENET',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c',1,'AuthCodes.h']]],
+  ['wow_5ffail_5fversion_5finvalid',['WOW_FAIL_VERSION_INVALID',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d',1,'AuthCodes.h']]],
+  ['wow_5ffail_5fversion_5fupdate',['WOW_FAIL_VERSION_UPDATE',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae',1,'AuthCodes.h']]],
+  ['wow_5fsuccess_5fsurvey',['WOW_SUCCESS_SURVEY',['../AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a',1,'AuthCodes.h']]]
+];
