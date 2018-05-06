@@ -278,7 +278,19 @@
     "required": true
   }
 }
-</code></pre></div></div></div></div></div></div></div><div class="panel resource-modal"><div><h4 class="panel-title"><span class="parent">/account</span><span class="relative">/auth</span> <span class="methods"><a href="#account_auth_post"><span class="badge badge_post">post</span></a></span></h4></div><div class="modal fade" tabindex="0" id="account_auth_post"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="myModalLabel"><span class="badge badge_post">post</span> <span class="parent">/account</span><span class="relative">/auth</span></h4></div><div class="modal-body"><blockquote><p>authenticate a user</p></blockquote><ul class="nav nav-tabs"><li class="active"><a href="#account_auth_post_request" data-toggle="tab">Request</a></li><li><a href="#account_auth_post_response" data-toggle="tab">Response</a></li></ul><div class="tab-content"><div class="tab-pane active" id="account_auth_post_request"><h3>Body</h3><p><strong>Media type</strong>: application/json</p><p><strong>Type</strong>:</p><pre><code>{
+</code></pre></div></div></div></div></div></div></div><div class="panel resource-modal"><div><h4 class="panel-title"><span class="parent">/account</span><span class="relative">/auth</span> <span class="methods"><a href="#account_auth_get"><span class="badge badge_get">get</span></a> <a href="#account_auth_post"><span class="badge badge_post">post</span></a></span></h4></div><div class="modal fade" tabindex="0" id="account_auth_get"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="myModalLabel"><span class="badge badge_get">get</span> <span class="parent">/account</span><span class="relative">/auth</span></h4></div><div class="modal-body"><blockquote><p>authenticate a user through cookie</p></blockquote><ul class="nav nav-tabs"><li class="active"><a href="#account_auth_get_request" data-toggle="tab">Request</a></li><li><a href="#account_auth_get_response" data-toggle="tab">Response</a></li></ul><div class="tab-content"><div class="tab-pane active" id="account_auth_get_request"><h3>Headers</h3><ul><li><strong>Set-Cookie</strong>: <em>required (string)</em><p>Transer session information</p></li></ul></div><div class="tab-pane" id="account_auth_get_response"><h2>HTTP status code <a href="http://httpstatus.es/200" target="_blank">200</a></h2><h3>Body</h3><p><strong>Media type</strong>: application/json</p><p><strong>Type</strong>:</p><pre><code>{
+  "reason": {
+    "type": "string",
+    "required": true
+  }
+}
+</code></pre><h2>HTTP status code <a href="http://httpstatus.es/403" target="_blank">403</a></h2><h3>Body</h3><p><strong>Media type</strong>: application/json</p><p><strong>Type</strong>:</p><pre><code>{
+  "reason": {
+    "type": "string",
+    "required": true
+  }
+}
+</code></pre></div></div></div></div></div></div><div class="modal fade" tabindex="0" id="account_auth_post"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="myModalLabel"><span class="badge badge_post">post</span> <span class="parent">/account</span><span class="relative">/auth</span></h4></div><div class="modal-body"><blockquote><p>authenticate a user</p></blockquote><ul class="nav nav-tabs"><li class="active"><a href="#account_auth_post_request" data-toggle="tab">Request</a></li><li><a href="#account_auth_post_response" data-toggle="tab">Response</a></li></ul><div class="tab-content"><div class="tab-pane active" id="account_auth_post_request"><h3>Body</h3><p><strong>Media type</strong>: application/json</p><p><strong>Type</strong>:</p><pre><code>{
   "username": {
     "type": "string",
     "required": true
